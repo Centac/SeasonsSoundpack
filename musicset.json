@@ -1,0 +1,118 @@
+[
+       {
+        "type": "playlist",
+        "playlists":
+        [
+        {
+            "id" : "title",
+            "shuffle" : true,
+            "files" : [
+                {
+                    "file": "music/Kevin MacLeod _ Celtic Impulse.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/04.Histories and tales_0.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/7_20.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/9_22.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Achaidh Cheide.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Ambush in buch.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Campaign_0.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Chase.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Confused State.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Constancy Part Two.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Double Drift.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Expeditionary.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Frost Waltz (Alternate).ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Frost Waltz.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Heroic Age.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Not As It Seems.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Opium.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Path to Lake Land.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Savannah Sketch.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Senbazuru.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Skye Cuillin.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Temple of the Manes.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/The Pyre.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/To the Ends.ogg",
+                    "volume": 80
+                },
+                		{
+                    "file": "music/Unpromised.ogg",
+                    "volume": 80
+                },
+ 				{
+                    "file": "music/Willow and the Light.ogg",
+                    "volume": 80
+                }
+            ]
+        }
+    ]
+}
+]

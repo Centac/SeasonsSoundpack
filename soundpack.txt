@@ -1,0 +1,6 @@
+#CDDA-Soundpack
+#Name of the soundpack
+NAME: SeasonsSoundpack
+#Viewing name of the soundpack
+VIEW: SeasonsSoundpack
+DESCRIPTION: Soundpack for CDDA with music from the different seasons in Dwarf Fortress' Soundsence.
